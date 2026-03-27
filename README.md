@@ -141,11 +141,11 @@ Decision: Acceptable
 
 ## 👨‍💻 Author
 
-**Trailblazers
-Deepalakshmi s 
-Ameera banu A
-Gosp s
-Noyal Ashwin j**
+**Team - Trailblazers**
+  **Deepalakshmi s**
+  **Ameera banu A**
+  **Gospi s**
+  **Noyal Ashwin J**
 
 ---
 
