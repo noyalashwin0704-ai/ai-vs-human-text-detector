@@ -141,7 +141,11 @@ Decision: Acceptable
 
 ## 👨‍💻 Author
 
-**Trailblazers**
+**Trailblazers
+Deepalakshmi s 
+Ameera banu A
+Gosp s
+Noyal Ashwin j**
 
 ---
 
