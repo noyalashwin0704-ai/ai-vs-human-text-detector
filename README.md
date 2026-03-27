@@ -141,7 +141,7 @@ Decision: Acceptable
 
 ## 👨‍💻 Author
 
-**GOPi S**
+**Trailblazers**
 
 ---
 
